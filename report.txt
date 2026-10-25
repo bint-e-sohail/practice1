@@ -1,0 +1,3 @@
+notebook: 5 x 120 = 600
+marker: 4 x 80 = 320
+Total: 920
